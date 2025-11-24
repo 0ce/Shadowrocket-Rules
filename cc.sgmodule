@@ -1,8 +1,8 @@
 #!name=自定义规则
 
 [Rule]
-DOMAIN-SUFFIX,javdb.com,台湾节点
-DOMAIN-SUFFIX,javdb458.com,台湾节点
-DOMAIN-SUFFIX,javdb561.com,台湾节点
-DOMAIN-SUFFIX,javdb562.com,台湾节点
-DOMAIN-SUFFIX,jdbstatic.com,台湾节点
+DOMAIN-SUFFIX,javdb.com,香港节点
+DOMAIN-SUFFIX,javdb458.com,香港节点
+DOMAIN-SUFFIX,javdb561.com,香港节点
+DOMAIN-SUFFIX,javdb562.com,香港节点
+DOMAIN-SUFFIX,jdbstatic.com,香港节点
