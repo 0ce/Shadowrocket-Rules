@@ -6,6 +6,4 @@ DOMAIN-SUFFIX,javdb458.com,香港节点
 DOMAIN-SUFFIX,javdb561.com,香港节点
 DOMAIN-SUFFIX,javdb562.com,香港节点
 DOMAIN-SUFFIX,jdbstatic.com,香港节点
-IP-CIDR,192.168.0.0/16,DIRECT
-IP-CIDR,10.0.0.0/8,DIRECT
-IP-CIDR,172.16.0.0/12,DIRECT
+DOMAIN-SUFFIX,6551.tos-cn-hongkong.volces.com,香港节点
