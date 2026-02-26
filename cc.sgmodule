@@ -1,9 +1,21 @@
 #!name=自定义规则
 
 [Rule]
+
+#Javdb
 DOMAIN-SUFFIX,javdb.com,香港节点
 DOMAIN-SUFFIX,javdb458.com,香港节点
 DOMAIN-SUFFIX,javdb561.com,香港节点
 DOMAIN-SUFFIX,javdb562.com,香港节点
 DOMAIN-SUFFIX,jdbstatic.com,香港节点
+
+#6551
 DOMAIN-SUFFIX,6551.tos-cn-hongkong.volces.com,香港节点
+
+#Steam
+DOMAIN-SUFFIX,content.steampowered.com,DIRECT
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN-SUFFIX,steamstatic.com,DIRECT
+DOMAIN-SUFFIX,cdn.steamstatic.com,DIRECT
+DOMAIN-SUFFIX,akamai.steamstatic.com,DIRECT
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
