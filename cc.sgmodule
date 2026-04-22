@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,akamai.steamstatic.com,DIRECT
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 
 #oyunfor
-DOMAIN-SUFFIX,oyunfor.com,DIRECT
+#DOMAIN-SUFFIX,oyunfor.com,DIRECT
