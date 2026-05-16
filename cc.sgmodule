@@ -12,15 +12,15 @@ DOMAIN-SUFFIX,javdb570.com,香港节点
 
 
 #6551
-DOMAIN-SUFFIX,6551.tos-cn-hongkong.volces.com,香港节点
+#DOMAIN-SUFFIX,6551.tos-cn-hongkong.volces.com,香港节点
 
 #Steam
-DOMAIN-SUFFIX,content.steampowered.com,DIRECT
-DOMAIN-SUFFIX,steamcontent.com,DIRECT
-DOMAIN-SUFFIX,steamstatic.com,DIRECT
-DOMAIN-SUFFIX,cdn.steamstatic.com,DIRECT
-DOMAIN-SUFFIX,akamai.steamstatic.com,DIRECT
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
+#DOMAIN-SUFFIX,content.steampowered.com,DIRECT
+#DOMAIN-SUFFIX,steamcontent.com,DIRECT
+#DOMAIN-SUFFIX,steamstatic.com,DIRECT
+#DOMAIN-SUFFIX,cdn.steamstatic.com,DIRECT
+#DOMAIN-SUFFIX,akamai.steamstatic.com,DIRECT
+#DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,DIRECT
 
 #oyunfor
 #DOMAIN-SUFFIX,oyunfor.com,DIRECT
