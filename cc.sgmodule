@@ -3,12 +3,12 @@
 [Rule]
 
 #Javdb
-DOMAIN-SUFFIX,javdb.com,台湾节点
-DOMAIN-SUFFIX,javdb458.com,台湾节点
-DOMAIN-SUFFIX,javdb561.com,台湾节点
-DOMAIN-SUFFIX,javdb562.com,台湾节点
-DOMAIN-SUFFIX,jdbstatic.com,台湾节点
-DOMAIN-SUFFIX,javdb570.com,台湾节点
+DOMAIN-SUFFIX,javdb.com,韩国节点
+DOMAIN-SUFFIX,javdb458.com,韩国节点
+DOMAIN-SUFFIX,javdb561.com,韩国节点
+DOMAIN-SUFFIX,javdb562.com,韩国节点
+DOMAIN-SUFFIX,jdbstatic.com,韩国节点
+DOMAIN-SUFFIX,javdb570.com,韩国节点
 
 #Debot
 DOMAIN-SUFFIX,debot.ai,香港节点
