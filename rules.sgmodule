@@ -1,0 +1,19 @@
+#!name=rules
+
+[Rule]
+
+#Javdb
+DOMAIN-SUFFIX,javdb.com,新加坡节点
+DOMAIN-SUFFIX,jdbstatic.com,新加坡节点
+
+#Jup
+DOMAIN-SUFFIX,jup.ag,PROXY
+
+#Debot
+DOMAIN-SUFFIX,debot.ai,香港节点
+
+#Steam - Download
+DOMAIN-SUFFIX,steamcontent.com,DIRECT
+DOMAIN,steampipe.akamaized.net,DIRECT
+DOMAIN,steampipe-kr.akamaized.net,DIRECT
+DOMAIN,steampipe-partner.akamaized.net,DIRECT
